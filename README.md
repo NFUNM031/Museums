@@ -28,8 +28,8 @@
 - 交互及界面设计——智能语音交互（语音识别API）
 - 信息设计——区域人流量统计（人流量统计API）
 ![image](https://github.com/NFUNM031/Museums/blob/master/image/%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
-### 2.[原型文档](http://nfunm031.gitee.io/book_finding)
-[下载文档](https://github.com/NFUNM031/API_ML_AI_/blob/master/%E5%AF%BB%E4%B9%A6.rp)
+### 2.[原型文档](http://nfunm031.gitee.io/museum)
+[下载文档](https://github.com/NFUNM031/Museums/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86.rp)
 ### 3.口头操作说明
 1. 
-- 详情见[原型文档](http://nfunm031.gitee.io/book_finding)
+- 详情见[原型文档](http://nfunm031.gitee.io/museum)
