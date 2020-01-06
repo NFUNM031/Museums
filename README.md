@@ -31,5 +31,5 @@
 ### 2.[原型文档](http://nfunm031.gitee.io/museum)
 [下载文档](https://github.com/NFUNM031/Museums/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86.rp)
 ### 3.口头操作说明
-1. 
+游客打开软件注册登录后可进入“导览”界面，用户点击“语音助手”按钮后弹出语音输入框，用户进行正确的语音操作输入后可以与app进行智能语音交互。
 - 详情见[原型文档](http://nfunm031.gitee.io/museum)
